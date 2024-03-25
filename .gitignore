@@ -7,6 +7,9 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.ipynb_checkpoints/ARMA Models-checkpoint.ipynb
+__pycache__
+.ipynb_checkpoints
 .Python
 build/
 develop-eggs/
